@@ -261,7 +261,7 @@
             "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
             "chainId": 369,
             "decimals": 18,
-            "logoURI": ""
+            "logoURI": "https://tokens.dextop.pro/tokens/wpls.png"
         },
         {
             "name": "T.I.M.E. Dividend",
@@ -672,6 +672,6 @@
             "logoURI": "https://tokens.dextop.pro/tokens/0x12B3E0d79c5dFda3FfA55D57C9697bD509dBf7B0.png"
         }
         ,{"name":"DexTop","chainId":369,"symbol":"PC","decimals":18,"address":"0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896","logoURI":"https://tokens.dextop.pro/tokens/0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896.png"},{"name":"Hard Drive","chainId":369,"symbol":"HORD","decimals":9,"address":"0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc","logoURI":"https://tokens.dextop.pro/tokens/0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc.png"}
-    ],
-    "logoURI": "https://tokens.dextop.pro/logo.png"
+    ]
+   
 }
