@@ -30,27 +30,11 @@
             "chainId": 369,
             "decimals": 8,
             "logoURI": "https://tokens.dextop.pro/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
-        },
-        {
-            "name": "USDC from Eth",
-            "symbol": "USDC",
-            "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
-            "chainId": 369,
-            "decimals": 6,
-            "logoURI": "https://bafybeif7p3lwn44s6siduzasdy3jr5stq72xe7qqd6msbzeuzjmxhdlqdy.ipfs.dweb.link?filename=0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
-        },
-        {
-            "name": "Dai from Eth",
-            "symbol": "DAI",
-            "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
-            "chainId": 369,
-            "decimals": 18,
-            "logoURI": "https://bafybeifmym46yqa2incik4dxed4xwzx2plgv4it7g2kvdkglitlruylpoe.ipfs.dweb.link?filename=0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
         }
-        
         
     ]
    
 }
+
 
 
