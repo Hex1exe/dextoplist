@@ -4,7 +4,7 @@
     "version": {
         "major": 35,
         "minor": 3,
-        "patch": 4
+        "patch": 5
     },
     "tokens": [
         {
@@ -1337,14 +1337,6 @@
         },
         {
             "chainId": 369,
-            "name": "Fetch",
-            "address": "0xe39B70c9978E4232140d148Ad3C0b08f4A42220D",
-            "symbol": "FETCH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe39B70c9978E4232140d148Ad3C0b08f4A42220D.png"
-        },
-        {
-            "chainId": 369,
             "name": "INC Dollar",
             "address": "0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50",
             "symbol": "INCD",
@@ -2010,6 +2002,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
