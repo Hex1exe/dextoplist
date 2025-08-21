@@ -2,7 +2,7 @@
     "name": "DexTop Token List",
     "timestamp": "2024-11-09T00:00:00+00:00",
     "version": {
-        "major": 22,
+        "major": 23,
         "minor": 0,
         "patch": 0
     },
@@ -619,6 +619,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
