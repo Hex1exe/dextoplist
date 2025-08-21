@@ -3,8 +3,8 @@
     "timestamp": "2025-01-01T00:00:00+00:00",
     "version": {
         "major": 35,
-        "minor": 0,
-        "patch": 0
+        "minor": 1,
+        "patch": 1
     },
     "tokens": [
         {
@@ -1017,14 +1017,6 @@
         },
         {
             "chainId": 369,
-            "name": "INC Dollar",
-            "address": "0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50",
-            "symbol": "INCD",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x144Cd22AaA2a80FEd0Bb8B1DeADDc51A53Df1d50.png"
-        },
-        {
-            "chainId": 369,
             "name": "INC Printer",
             "address": "0x6C203A555824ec90a215f37916cf8Db58EBe2fA3",
             "symbol": "PRINT",
@@ -1142,14 +1134,6 @@
             "symbol": "PULSEGUY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67922D590BA6C784f468B6B562d201113a8FbD2D.png"
-        },
-        {
-            "chainId": 369,
-            "name": "PulseBitcoin",
-            "address": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
-            "symbol": "PLSB",
-            "decimals": 12,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06.png"
         },
         {
             "chainId": 369,
@@ -1371,6 +1355,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
