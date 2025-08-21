@@ -897,9 +897,9 @@
         },
         {
             "chainId": 369,
-            "name": "monat money Ǝ𒑰",
+            "name": "monat money 3",
             "address": "0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e",
-            "symbol": "Ǝ𒑰",
+            "symbol": "3",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xf8AB3393b1f5CD6184Fb6800A1fC802043C4063e.png"
         },
@@ -1257,7 +1257,7 @@
         },
         {
             "chainId": 369,
-            "name": "𑀭𑀭𑀭𑀭𑀭",
+            "name": "lllll",
             "address": "0xE35A842eb1EDca4C710B6c1B1565cE7df13f5996",
             "symbol": "BFF",
             "decimals": 18,
@@ -3755,10 +3755,3 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
-
-
-
-
-
-
-
