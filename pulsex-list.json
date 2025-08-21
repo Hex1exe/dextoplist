@@ -630,9 +630,10 @@
             "decimals": 18,
             "address": "0x12B3E0d79c5dFda3FfA55D57C9697bD509dBf7B0",
             "logoURI": "https://tokens.dextop.pro/tokens/0x12B3E0d79c5dFda3FfA55D57C9697bD509dBf7B0.png"
-        },
-        {"name":"DexTop","chainId":369,"symbol":"PC","decimals":18,"address":"0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896","logoURI":"https://tokens.dextop.pro/tokens/0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896.png"},{"name":"Hard Drive","chainId":369,"symbol":"HORD","decimals":9,"address":"0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc","logoURI":"https://tokens.dextop.pro/tokens/0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc.png"}
-    ]
+        }
+        ,{"name":"DexTop","chainId":369,"symbol":"PC","decimals":18,"address":"0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896","logoURI":"https://tokens.dextop.pro/tokens/0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896.png"},{"name":"Hard Drive","chainId":369,"symbol":"HORD","decimals":9,"address":"0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc","logoURI":"https://tokens.dextop.pro/tokens/0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc.png"}
+    ],
    
 }
+
 
