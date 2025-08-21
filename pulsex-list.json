@@ -958,7 +958,7 @@
             "symbol": "HEX",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x55C50875e890c7eE5621480baB02511C380E12C6.png"
-        }
+        },
         {
             "chainId": 369,
             "name": "Treasury Bill",
@@ -1162,6 +1162,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
