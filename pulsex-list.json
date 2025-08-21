@@ -655,25 +655,12 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x495d9b70480A22a82D0FB81981480764BA55550e.png"
     },
-    {
-      "chainId": 369,
-      "name": "DexTop",
-      "address": "0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896",
-      "symbol": "PC",
-      "decimals": 18,
-      "logoURI": "https://tokens.dextop.pro/tokens/0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896.png"
-    },
-    {
-      "chainId": 369,
-      "name": "Hard Drive",
-      "address": "0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc",
-      "symbol": "HORD",
-      "decimals": 9,
-      "logoURI": "https://tokens.dextop.pro/tokens/0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc.png"
-    }
-  ],
-  "logoURI": "https://tokens.dextop.pro/logo.png"
+   
+        {"name":"DexTop","chainId":369,"symbol":"PC","decimals":18,"address":"0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896","logoURI":"https://tokens.dextop.pro/tokens/0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896.png"},{"name":"Hard Drive","chainId":369,"symbol":"HORD","decimals":9,"address":"0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc","logoURI":"https://tokens.dextop.pro/tokens/0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc.png"}
+    ],
+    "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
