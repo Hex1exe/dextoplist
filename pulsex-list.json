@@ -2,7 +2,7 @@
     "name": "PulseChain Token List",
     "timestamp": "2025-01-01T00:00:00+00:00",
     "version": {
-        "major": 30,
+        "major": 31,
         "minor": 0,
         "patch": 0
     },
@@ -1162,6 +1162,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
