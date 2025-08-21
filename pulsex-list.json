@@ -2,7 +2,7 @@
     "name": "PulseChain Token List",
     "timestamp": "2025-01-01T00:00:00+00:00",
     "version": {
-        "major": 31,
+        "major": 32,
         "minor": 0,
         "patch": 0
     },
@@ -985,27 +985,11 @@
         },
         {
             "chainId": 369,
-            "name": "9INCH",
-            "address": "0x3ca80d83277e721171284667829c686527B8b3c5",
-            "symbol": "9INCH",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x3ca80d83277e721171284667829c686527B8b3c5.png"
-        },
-        {
-            "chainId": 369,
             "name": "Maximus BASE",
             "address": "0xe9f84d418B008888A992Ff8c6D22389C2C3504e0",
             "symbol": "BASE",
             "decimals": 8,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xe9f84d418B008888A992Ff8c6D22389C2C3504e0.png"
-        },
-        {
-            "chainId": 369,
-            "name": "9MM",
-            "address": "0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719",
-            "symbol": "9MM",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x7b39712Ef45F7dcED2bBDF11F3D5046bA61dA719.png"
         },
         {
             "chainId": 369,
@@ -1158,10 +1142,36 @@
             "symbol": "PULSEGUY",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x67922D590BA6C784f468B6B562d201113a8FbD2D.png"
-        }
+        },
+        {
+            "chainId": 369,
+            "name": "PulseBitcoin",
+            "address": "0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06",
+            "symbol": "PLSB",
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x5EE84583f67D5EcEa5420dBb42b462896E7f8D06.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Maximus Trio",
+            "address": "0xF55cD1e399e1cc3D95303048897a680be3313308",
+            "symbol": "TRIO",
+            "decimals": 8,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xF55cD1e399e1cc3D95303048897a680be3313308.png"
+        },
+        {
+            "chainId": 369,
+            "name": "ASIC Token",
+            "address": "0x347a96a5BD06D2E15199b032F46fB724d6c73047",
+            "symbol": "ASIC",
+            "decimals": 12,
+            "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x347a96a5BD06D2E15199b032F46fB724d6c73047.png"
+        },
+        
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
