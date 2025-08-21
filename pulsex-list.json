@@ -4,7 +4,7 @@
     "version": {
         "major": 35,
         "minor": 3,
-        "patch": 3
+        "patch": 4
     },
     "tokens": [
         {
@@ -2006,11 +2006,11 @@
             "symbol": "PTV",
             "decimals": 4,
             "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0xA5AC6346077aa95095D34AEBFbcd61C367A08B2f.png"
-        },
-        
+        }   
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
