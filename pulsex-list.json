@@ -2,7 +2,7 @@
     "name": "PulseChain Token List",
     "timestamp": "2024-11-09T00:00:00+00:00",
     "version": {
-        "major": 22,
+        "major": 26,
         "minor": 0,
         "patch": 0
     },
@@ -126,14 +126,6 @@
             "chainId": 369,
             "decimals": 18,
             "logoURI": "https://tokens.dextop.pro/tokens/0x95fc392c84b47E9a8c015B6b58B527Bb4347Ac66.png"
-        },
-        {
-            "name": "Degen Anonymous",
-            "symbol": "ANON",
-            "address": "0x075F7F657AEAD0e698EDb4E0A47d1DEF869536B4",
-            "chainId": 369,
-            "decimals": 18,
-            "logoURI": "https://bafybeihaflhk73gqke5j3mjewfz2k2vf3zar4f2cqpyscw2vhwym7xhfke.ipfs.nftstorage.link/photo_2024-01-28_14-45-37.jpg"
         },
         {
             "name": "USDL",
@@ -261,7 +253,7 @@
             "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
             "chainId": 369,
             "decimals": 18,
-            "logoURI": "https://tokens.dextop.pro/tokens/wpls.png"
+            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xa1077a294dde1b09bb078844df40758a5d0f9a27.png"
         },
         {
             "name": "T.I.M.E. Dividend",
@@ -270,14 +262,6 @@
             "decimals": 18,
             "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
-        },
-        {
-            "name": "Internet Money",
-            "chainId": 369,
-            "symbol": "IM",
-            "decimals": 18,
-            "address": "0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
         },
         {
             "name": "HELGO",
@@ -318,14 +302,6 @@
             "decimals": 18,
             "address": "0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B",
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x9159f1D2a9f51998Fc9Ab03fbd8f265ab14A1b3B.png"
-        },
-        {
-            "name": "USDL Stablecoin",
-            "chainId": 369,
-            "symbol": "USDL",
-            "decimals": 18,
-            "address": "0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162",
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x0dEEd1486bc52aA0d3E6f8849cEC5adD6598A162.png"
         },
         {
             "name": "Coast",
@@ -416,14 +392,6 @@
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x1DcbF345bC44696BbBed402367f7C62e524Fe8B5.png"
         },
         {
-            "name": "Hocus Pocus Finance",
-            "chainId": 369,
-            "symbol": "HOC",
-            "decimals": 18,
-            "address": "0xd22E78C22D7E77229d60cc9fC57b0E294F54488E",
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xd22E78C22D7E77229d60cc9fC57b0E294F54488E.png"
-        },
-        {
             "name": "Wrapped BNB from BSC (TokensExpress)",
             "chainId": 369,
             "symbol": "WBNB",
@@ -477,7 +445,7 @@
             "symbol": "WETH",
             "decimals": 18,
             "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
-            "logoURI": "/images/369/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
+            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
         },
         {
             "name": "SHIBA INU",
@@ -624,14 +592,6 @@
             "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2.png"
         },
         {
-            "name": "Hex Orange Address",
-            "chainId": 369,
-            "symbol": "HOA",
-            "decimals": 18,
-            "address": "0x7901a3569679AEc3501dbeC59399F327854a70fe",
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0x7901a3569679AEc3501dbeC59399F327854a70fe.png"
-        },
-        {
             "name": "PXDC Stablecoin",
             "chainId": 369,
             "symbol": "PXDC",
@@ -673,8 +633,9 @@
         }
         ,{"name":"DexTop","chainId":369,"symbol":"PC","decimals":18,"address":"0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896","logoURI":"https://tokens.dextop.pro/tokens/0xbb0F7090Cbfb232F10abd04376D9c4d3B1bEd896.png"},{"name":"Hard Drive","chainId":369,"symbol":"HORD","decimals":9,"address":"0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc","logoURI":"https://tokens.dextop.pro/tokens/0xb3a65C8C0D17b87523A8BdD1048053EF871113Fc.png"}
     ],
-    "logoURI": "https://tokens.dextop.pro/logo.gif"
+    "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
