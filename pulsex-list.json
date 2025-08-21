@@ -253,7 +253,7 @@
             "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
             "chainId": 369,
             "decimals": 18,
-            "logoURI": "https://tokens.app.pulsex.com/images/tokens/0xa1077a294dde1b09bb078844df40758a5d0f9a27.png"
+            "logoURI": "https://tokens.dextop.pro/tokens/0xa1077a294dde1b09bb078844df40758a5d0f9a27.png"
         },
         {
             "name": "T.I.M.E. Dividend",
@@ -635,6 +635,7 @@
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
