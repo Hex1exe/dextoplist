@@ -3,8 +3,8 @@
     "timestamp": "2025-01-01T00:00:00+00:00",
     "version": {
         "major": 37,
-        "minor": 6,
-        "patch": 6
+        "minor": 7,
+        "patch": 7
     },
     "tokens": [
         {
@@ -2006,10 +2006,19 @@
             "symbol": "GROYPER",
             "decimals": 18,
             "logoURI": "https://bafybeienks5bfewjv636lnivuaihqnaip6seq7gbr4ydcy7hnqhspmfada.ipfs.dweb.link?filename=groypsm.png"
+        },
+        {
+            "chainId": 369,
+            "name": "Dev is Based",
+            "address": "0x6F21950028418e0dFA840255daA1812200f7AB07",
+            "symbol": "BASED",
+            "decimals": 18,
+            "logoURI": "https://bafybeifzapg7gqmlviwbpvsyssnlvpllzpvxprsouibfm5d7a3nmstjydm.ipfs.dweb.link?filename=0x6F21950028418e0dFA840255daA1812200f7AB07.png"
         }
     ],
     "logoURI": "https://tokens.dextop.pro/logo.png"
 }
+
 
 
 
